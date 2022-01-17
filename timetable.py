@@ -79,6 +79,9 @@ elif p=="Fri":
     os.system('python zoomfullbot.py')
     time.sleep(7200)
     os.system('python zoomfullbot.py')
+else:
+    print("Its a Holiday Bitch")
+
 
 
 
